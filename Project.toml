@@ -5,6 +5,8 @@ version = "0.1.0"
 
 [deps]
 DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+TickTock = "9ff05d80-102d-5586-aa04-3a8bd1a90d20"
 
 [compat]
 julia = "1"
