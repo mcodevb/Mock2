@@ -3,6 +3,9 @@ uuid = "ae38074d-69a9-4dc6-99ac-5948e4336822"
 authors = ["mcodevb <getmainul1@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+
 [compat]
 julia = "1"
 
